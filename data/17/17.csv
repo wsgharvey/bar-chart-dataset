@@ -1,0 +1,26 @@
+title,"The Host Nation Has Won 54% More Medals,
+on Average, than It Typically Does",,,,,,,,,,
+vector-graphic?,yes,,,,,,,,,,
+objects-not-accounted-for-present?,no,,,,,,,,,,
+x-axis label,,,,,,,,,,,
+y-axis label,,,,,,,,,,,
+x-axis tic labels,,,,,,,,,,,
+y-axis tic labels,0,20,40,60,80,100,120,140,160,180,200
+legend labels,"Average no. of medals won when
+not hosting",,No. of medals won when hosting,,,,,,,,
+legend colours or styles,dark blue,,light blue,,,,,,,,
+bar chart count,2,,,,,,,,,,
+grouped by (x-value or legend-value),x-value,,,,,,,,,,
+bar-y-values,,,,,,,,,,,
+"Average no. of medals won when not hosting",dark blue,45,5,23,100,9,20,98,19,80,45
+No. of medals won when hosting,light blue,100,15,59,110,21,37,190,9,110,71
+bar-y-top-conf-value,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+bar-y-bottom-conf-value,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+bar-x-values,,,
+,,China,Greece,Australia,US,Spain,South Korea,Russia,Canada,Germany,Average,

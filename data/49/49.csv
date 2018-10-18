@@ -1,0 +1,24 @@
+title,,,,
+vector-graphic?,no,,,
+objects-not-accounted-for-present?,yes,,,
+x-axis label,[CEA] (pg/mL),,,
+y-axis label,Distance,,,
+x-axis tic labels,0,10,50,100
+y-axis tic labels,0,1,2,3
+legend labels,Buffer,Serum,,
+legend colours or styles,Grey,Red,,
+bar chart count,2,,,
+grouped by (x-value or legend-value),x-value,,,
+bar-y-values,,,,
+Buffer,Grey,0.5,1.1,2
+Serum,Red,0.4,1,2.1
+,,,,
+bar-y-top-conf-value,,,,
+Buffer,Grey,0.7,1.4,2.7
+Serum,Red,0.7,1.3,2.9
+,,,,
+bar-y-bottom-conf-value,,,,
+Buffer,Grey,0.4,0.9,1.3
+Serum,Red,0.2,0.7,1.2
+,,,,
+bar-x-values,0,1,2,3

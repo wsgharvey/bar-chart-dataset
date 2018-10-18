@@ -1,0 +1,24 @@
+title,Recycling of household materials by type of scheme,,,,,
+vector-graphic?,no,,,,,
+objects-not-accounted-for-present?,no,,,,,
+x-axis label,,,,,,
+y-axis label,Tonnes,,,,,
+x-axis tic labels,,,,,,
+y-axis tic labels,0,100,200,300,400,500
+legend labels,Civic aminity sites,Kerbsite separate,Kerbsite integrated,,,
+legend colours or styles,light grey,grey,dark grey,,,
+bar chart count,3,,,,,
+grouped by (x-value or legend-value),x-value,,,,,
+bar-y-values,,,,,,
+Civic aminity sites,light grey,490,430,320,20,15
+Kerbsite separate,grey,30,380,35,90,13
+Kerbsite integrated,dark grey,10,30,10,10,0
+bar-y-top-conf-value,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+bar-y-bottom-conf-value,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+bar-x-values,Compost,Paper and card,Glass,Co-mingled material,Total cans,

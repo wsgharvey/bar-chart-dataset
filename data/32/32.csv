@@ -1,0 +1,25 @@
+title,"Table 1 Clustering bar chart of age by sex of
+participating acupuncturists",,,,,
+vector-graphic?,yes,,,,,
+objects-not-accounted-for-present?,no,,,,,
+x-axis label,Age (years),,,,,
+y-axis label,Percentage Percentage,,,,,
+x-axis tic labels,,,,,,
+y-axis tic labels,0,10,20,30,40,50
+legend labels,Female,Male,,,,
+legend colours or styles,lilac,magenta,,,,
+bar chart count,2,,,,,
+grouped by (x-value or legend-value),x-value,,,,,
+bar-y-values,,,,,,
+Female,lilac,3,29,43,18,7
+Male,magenta,3.2,25,37,25,12
+,,,,,,
+bar-y-top-conf-value,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+bar-y-bottom-conf-value,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+bar-x-values,< 29,30-39,40-49,50-59,> 60,

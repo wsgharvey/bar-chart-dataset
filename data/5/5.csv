@@ -1,0 +1,24 @@
+title,,,,,,,
+vector-graphic?,no,,,,,,
+objects-not-accounted-for-present?,no,,,,,,
+x-axis label,Angularity,,,,,,
+y-axis label,Frequency,,,,,,
+x-axis tic labels,,,,,,,
+y-axis tic labels,0,5,10,15,20,25,30
+legend labels,BI 1 (RA64%),BI 2 (RA64%),RC1 (RA 54%),,,,
+legend colours or styles,blue,red ,green,,,,
+bar chart count,3,,,,,,
+grouped by (x-value or legend-value),x-value,,,,,,
+bar-y-values,,,,,,,
+BI 1 (RA64%),blue,5,26,17,0,0,0
+BI 2 (RA64%),red ,4,27,17,0,0,0
+RC1 (RA 54%),green,3,23,19,3,0,0
+bar-y-top-conf-value,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+bar-y-bottom-conf-value,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+bar-x-values,VA,A ,SA,SR,R ,WR,
